@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40%" />
 
-# 👋 Hello, I'm BOUKBAK
+# 👋 Hello, I'm GHAZOUAN
 
 ### 🐍 Python Developer in Progress
 ### 🚀 Future Software Engineer
